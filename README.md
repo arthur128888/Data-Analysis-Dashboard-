@@ -8,7 +8,8 @@ This project presents a comprehensive Power BI dashboard for analyzing Blinkit's
 - Total Sales: Overall revenue generated from all items sold ($1.20M)
 - Average Sales: Average revenue per sale ($141)
 - Number of Items: Total count of different items sold (8523)
-- Average Rating: Average customer rating for items sold (3.9 out of 5)
+- Average Rating: Average customer rating for items sold (4 out of 5)
+- Dashboard Interaction <a href = "https://github.com/arthur128888/Data-Analysis-Dashboard-/blob/main/Screenshot%202025-01-18%20161713.png">View Dashboard</a>
 # Features
 - Filter Panel: Allows users to filter data by outlet location type, outlet size, and item type
 - Outlet Establishment Trend: Visualizes the growth of outlet establishments from 2012 to 2022
