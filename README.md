@@ -1,5 +1,5 @@
 # Data-Analysis-Dashboard
-This project presents a comprehensive Power BI dashboard for analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The dashboard provides key insights and opportunities for optimization using various KPIs and visualizations.
+This project presents a comprehensive Excel dashboard for analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The dashboard provides key insights and opportunities for optimization using various KPIs and visualizations.
 
 ## Dataset used
 - <a href="https://github.com/arthur128888/Data-Analysis-Dashboard-/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
